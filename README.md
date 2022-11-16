@@ -1,0 +1,1 @@
+# 1D-Diffusion-equation-in-MATLAB
